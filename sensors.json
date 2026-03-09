@@ -1,0 +1,10 @@
+[
+  { "serial": "SPT941054E1C5C14982CD743E07", "group": "GSSI" },
+  { "serial": "SPTC0C45D8F899FA00CD5703EB3", "group": "GSSI" },
+ { "serial": "SPT94965470C56B4AFA10EACEB7", "group": "GSSI" },
+ { "serial": "SPTC01E5D95895FA12917389263", "group": "GSSI" },
+ { "serial": "SPTC0175D6F89A8A0FB9CD9A633", "group": "PNALM" },
+ { "serial": "SPTA88E4279E3D78950CF9B2AC3", "group": "PNALM" },
+ { "serial": "SPTA81F42E5E3FA8893C17A92D3", "group": "PNALM" },
+ { "serial": "SPTA8724233E3E08835C2DD4297", "group": "PNALM" }
+]
