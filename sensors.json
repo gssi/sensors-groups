@@ -10,5 +10,6 @@
  { "serial": "SPTA81F42E5E3FA8893C17A92D3", "group": "PNALM" },
  { "serial": "SPTA8724233E3E08835C2DD4297", "group": "PNALM" },
  { "serial": "SPTA8534215E303880AC1CCE2FD", "group": "PNALM" },
-  {"serial": "SPTC0445DB7897CA13A18D5BEEE", "group":"GSSI"}
+  {"serial": "SPTC0445DB7897CA13A18D5BEEE", "group":"GSSI"},
+    {"serial": "SPTC0545D3D8962A19B25043E4F", "group":"GSSI"}
 ]
